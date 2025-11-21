@@ -1,0 +1,38 @@
+cff-version: 1.2.0
+message: If you find this work useful, please cite it as below.
+authors:
+  - family-names: "Van Straaten"
+    given-names: "Alexis"
+  - family-names: "Sabatier"
+    given-names: "Pierre"
+  - family-names: "Feydy"
+    given-names: "Jean"
+  - family-names: "Jannot"
+    given-names: "Anne-Sophie"
+title: survivalGPU
+url: https://github.com/jeanfeydy/survivalGPU
+preferred-citation:
+  authors:
+  - family-names: "Van Straaten"
+    given-names: "Alexis"
+  - family-names: "Sabatier"
+    given-names: "Pierre"
+  - family-names: "Feydy"
+    given-names: "Jean"
+  - family-names: "Jannot"
+    given-names: "Anne-Sophie"
+  doi: 10.1016/j.respe.2023.101467
+  end: 20
+  month: 03
+  issn: 0398-7620
+  issue: 101467
+  journal: Revue d'Épidémiologie et de Santé Publique
+  scope: Supplément 1
+  start: 19
+  title: >
+    Accélération des calculs à l'aide de cartes graphiques pour la détection de
+    signaux de pharmacovigilance sur le Système national des données de santé :
+    le package survivalGPU  
+  type: article
+  volume: 71
+  year: 2023
